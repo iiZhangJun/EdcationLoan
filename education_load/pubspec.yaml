@@ -27,8 +27,8 @@ dependencies:
   flutter_staggered_grid_view: "^0.3.0"
   fluro: "^1.4.0"
   flutter_statusbarcolor: ^0.2.0
-  dio: 2.1.4
-  cached_network_image: ^0.8.0
+  dio: ">=2.1.4 <6.0.0"
+  cached_network_image: ">=0.8.0 <4.0.0"
   flutter_easyrefresh: ^1.2.7
   carousel_pro: ^1.0.0
   fluttertoast: ^3.0.3
